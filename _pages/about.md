@@ -18,7 +18,7 @@ redirect_from:
 # <font color="#9C2C23" id="about-me" > About Me </font>
 Here is Junyi Teng(Manchester,滕俊逸)Welcome to my academic homepage!  I am a third-year student studying Electronic Information Engineering at Fuzhou University and Maynooth University (Ireland) for a dual degree.
 
-My primary research interest is in Data-centric AI, aiming to explore the role and applications of data across a range of AIGC, pre-training, and downstream tasks. Specifically, I am investigating how to facilitate models with more efficient data or annotations and how to construct automated data pipelines for various tasks. Recently, I am working on how to use discriminative models and large multi-modal models to improve diffusion models.
+At present I plan to apply for postgraduate courses in the UK. I am excited to collaborate with you or engage in discussions on related topics. Let's feel the charm of electronics and communication together！
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
